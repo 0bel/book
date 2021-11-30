@@ -6,7 +6,7 @@ hide:
 
 # Knowledge precedes control.
 
-This book introduces **established concepts in the computer ecosystem**, so you can use them to have more control over your own computers.
+This book introduces **established concepts in the computer ecosystem** so you can use them to have more control over your own computers.
 
 ## What *is* IT50?
 
